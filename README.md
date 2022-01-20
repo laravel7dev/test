@@ -18,6 +18,11 @@ For production environments...
 npm run prod
 ```
 
+Setup your environment, web-server, DB, and edit .env-file.
+
+```sh
+php artisan migrate
+```
 
 ## Docker
 
