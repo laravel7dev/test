@@ -100,7 +100,7 @@
 
 <style>
     .send_msg {
-        margin: 15px 5px;
+        margin: 15px 0;
     }
     .send_success {
         color: green;
